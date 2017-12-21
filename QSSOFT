@@ -1,5 +1,5 @@
 [form2]
-button1=login
+button1=登录
 password=1234
 ischeck=1
 isdebug=1
@@ -9,5 +9,30 @@ checkBox1_text=请仔细阅读使用协议
 [form1]
 [APP]
 app_name=demo
-webdir=
-beizhu=2017/12/12日QS使用
+
+[userConfig1]
+softName=测试oracle
+dataBaseType=oracle
+serverIP=127.0.0.1
+databaseUsername=hely
+databasePasswd=1
+databasePort=1521
+databaseServiceName=orcl
+
+[userConfig2]
+softName=测试sqlserver
+dataBaseType=sqlserver
+serverIP=47.94.238.123
+databaseUsername=DEMO
+databasePasswd=DEMOdemo
+databasePort=1433
+databaseServiceName=demo
+userLoadingName1=查询库存
+userLoadingSelect1=select *  from demo 
+userUploadAddr1=http://www.baidu.com
+
+userLoadingName2=查询销售
+userLoadingSelect2=select *  from demo 
+userUploadAddr2=http://www.baidu.com
+userUploadStartTime=10:29:33
+userUploadInterval=60
