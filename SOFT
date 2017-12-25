@@ -6,6 +6,7 @@ isdebug=1
 title=demo系统
 isform4=1
 checkBox1_text=请仔细阅读使用协议
+isusb=USB
 [form1]
 [APP]
 app_name=demo
