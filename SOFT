@@ -10,6 +10,7 @@ isusb=USB
 isautologin=0
 opentimes=0
 version=20181229
+webaddr="http://www.cq-soft.com"
 [form1]
 [APP]
 app_name=demo
