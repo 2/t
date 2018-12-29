@@ -8,6 +8,8 @@ isform4=1
 checkBox1_text=请仔细阅读使用协议
 isusb=USB
 isautologin=0
+opentimes=0
+version=20181229
 [form1]
 [APP]
 app_name=demo
