@@ -10,7 +10,6 @@ isusb=USB
 isautologin=0
 opentimes=0
 version=20181229
-webaddress=http://www.cq-soft.com/CsharpApp/getpwd.php
 [form1]
 [APP]
 app_name=demo
